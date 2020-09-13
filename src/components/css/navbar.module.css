@@ -1,12 +1,3 @@
-/*
-  余白を0にする
-*/
-* {
-  margin: 0px;
-  padding: 0px;
-  font-family: 'Helvetica Neue','Helvetica','Arial',sans-serif;
-}
-
 nav {
   background: pink;
   margin: 0;
