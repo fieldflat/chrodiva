@@ -1,6 +1,6 @@
 .flex_container {
   display: flex;
-  margin-top: 10em;
+  margin: 5em 0;
   width: 100%;
   flex-flow: wrap;
   justify-content: center;
